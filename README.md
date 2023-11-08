@@ -1,7 +1,5 @@
-chrome://dino/ 
 
-
-#Hello World 🖖 
+Hello World 🖖 
 
 
 About me
