@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on make The Earth a better place.
 - 🤔 I’m looking for help with the FEMCODERS bootcamp!
 - 💬 Ask me about my dreams.
-- 📫 How to reach me: give a littlle whistle.
+- 📫 How to reach me: give a little whistle.
 - ⚡ Fun fact: I love my cat.
