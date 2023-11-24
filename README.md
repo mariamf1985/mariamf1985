@@ -1,8 +1,8 @@
 
-Hello World 🖖 
+##Hello World 🖖 
 
 
-About me
+##About me
 
 - 🔭 I’m currently working on growing my knowledge.
 - 🌱 I’m currently learning how to be better.
@@ -12,10 +12,10 @@ About me
 - 📫 How to reach me: give a little whistle.
 - ⚡ Fun fact: I love my cat.
 
-Current Stack
+###Current Stack
 
-Contact
+###Contact
 
 mariamf1985@gmail.com
 
-Github Stats
+###Github Stats
