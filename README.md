@@ -1,6 +1,7 @@
 # Hello World 🖖 
 
-![Xlua](https://github.com/mariamf1985/mariamf1985/assets/149203611/0225d4f4-446b-451e-9e61-c4cfa7516c10)
+![Xlua (1)](https://github.com/mariamf1985/mariamf1985/assets/149203611/677d0992-f73b-46b6-bb07-50df3a486741)
+
 
 ## About me
 
