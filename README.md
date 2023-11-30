@@ -16,6 +16,6 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,git,netlify,vscode,discord)](https://skillicons.dev)
 
-### Contact
+## Contact
 
 mariamf1985@gmail.com
