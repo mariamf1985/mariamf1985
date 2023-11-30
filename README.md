@@ -13,10 +13,9 @@
 - 📫 How to reach me: give a little whistle.
 - ⚡ Fun fact: I love my cat.
 
-### Current Stack
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,git,netlify,vscode,discord)](https://skillicons.dev)
 
 ### Contact
 
 mariamf1985@gmail.com
-
-### Github Stats
