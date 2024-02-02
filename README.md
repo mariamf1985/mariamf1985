@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love my cat.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,git,netlify,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,php,mysql,figma,github,git,netlify,vscode,discord)](https://skillicons.dev)
 
 ## Contact
 
